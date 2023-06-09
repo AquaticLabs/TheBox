@@ -1,0 +1,7 @@
+name: TheBox
+version: '${version}'
+main: io.aquaticlabs.thebox.TheBox
+api-version: 1.17
+authors: [ extremesnow ]
+description: Plugin System for The Cube Gamemode, Server Takeover.
+website: aquaticlabs.io
